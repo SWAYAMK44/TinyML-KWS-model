@@ -11,16 +11,16 @@ Memory-optimized architecture for microcontrollers
 Works with simple I2S/PDM microphones
 
 Keywords Detected
-Yes
-Stop
-Right
+Yes,
+Stop,
+Right/
 
 But this can be trained to predict any word in any language. The entire pipeline remains the same, just the dataset needed for model training changes.
 
-Model Input
-49 frames × 40 MFCC coefficients
-Sample rate: 16 kHz
-Window & hop: 25 ms / 10 ms
+Model Input-
+49 frames × 40 MFCC coefficients,
+Sample rate: 16 kHz,
+Window & hop: 25 ms / 10 ms.
 
 How to run inference-
 Just run the .py file and make sure to change the model path as needed.
