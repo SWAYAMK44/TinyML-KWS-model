@@ -38,3 +38,5 @@ Each file has it's own script to run inference. that script contains the pre-pro
 
 Inference on Raspberry pi4 is almost similar-
 Just the preprocessing part should be modified slightly depending on what microphone is being used. 
+
+Demo-https://drive.google.com/file/d/1pbpO-GUYAy05H4lMEl3hhTxNUjqk6k67/view?usp=sharing
