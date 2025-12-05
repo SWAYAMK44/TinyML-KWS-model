@@ -36,3 +36,5 @@ An optimised tflite float32 file (.tflite)
 An optimised tflite int8 file (.tflite)
 Each file has it's own script to run inference. that script contains the pre-processing part as well. 
 
+Inference on Raspberry pi4 is almost similar-
+Just the preprocessing part should be modified slightly depending on what microphone is being used. 
