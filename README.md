@@ -25,5 +25,7 @@ Window & hop: 25 ms / 10 ms
 How to run inference-
 Just run the .py file and make sure to change the model path as needed.
 
-Results-
+Applications-
+One of the very important application is to trigger the emergency stop buttons to stop the escalator with just a trigger word. This can be life saving in some cases
+It also has a lot of other IoT applications. This is used in Alexa,siri etc. 
 
