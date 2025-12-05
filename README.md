@@ -29,3 +29,10 @@ Applications-
 One of the very important application is to trigger the emergency stop buttons to stop the escalator with just a trigger word. This can be life saving in some cases
 It also has a lot of other IoT applications. This is used in Alexa,siri etc. 
 
+More about this repositry-
+This repo has three different model files-
+A normal tensoreflow (.h5) file
+An optimised tflite float32 file (.tflite)
+An optimised tflite int8 file (.tflite)
+Each file has it's own script to run inference. that script contains the pre-processing part as well. 
+
